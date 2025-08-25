@@ -8,6 +8,8 @@
 body {
     height: 100vh;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
@@ -15,8 +17,8 @@ body {
     padding: 10px;
     width: 90dvw;
     height: fit-content;
-    justify-content: center;
-    align-items: center;
+    border: 4px solid pink;
+    
     /* margin: 0 auto; */
     /* margin-left: auto;  */
     /* margin-right: auto; */
