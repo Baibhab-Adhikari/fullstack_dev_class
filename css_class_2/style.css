@@ -1,0 +1,10 @@
+div > p::after {
+    content: "(Read more.....)";
+}
+
+
+
+div > p:first-child::first-letter{
+    font-size: 50px;
+    font-family: cursive;
+}

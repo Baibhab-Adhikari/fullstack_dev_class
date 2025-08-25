@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+
+body {
+    height: 100vh;
+    display: flex;
+}
+
+.container {
+    background-color: black;
+    padding: 10px;
+    width: 90dvw;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    /* margin: 0 auto; */
+    /* margin-left: auto;  */
+    /* margin-right: auto; */
+}
+
+.card {
+    background-color: blue;
+    padding: 50px;
+}
